@@ -19,6 +19,7 @@
 
 <details>
 <summary>🎶 Want to know what was I listening to?</summary>
+        <img src="https://media.tenor.com/images/84758965fe89003cc8f1a5a59a4bed1e/tenor.gif" width = "60"/> 
         <details>
           <summary>You sure?</h4></summary>
             <details>
