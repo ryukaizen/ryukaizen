@@ -1,4 +1,4 @@
-![ryukaizen](https://github.com/ryukaizen/test/assets/55140313/a590ce3d-47ff-4677-a294-cfe9b9a2caac)
+![ryukaizen](https://i.imgur.com/rPudVOL.jpeg)
 
 ![Some graph to make my README look more sophisticated](https://github-readme-activity-graph.vercel.app/graph?username=ryukaizen&theme=react-dark)
 
