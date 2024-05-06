@@ -27,7 +27,11 @@
                 <details>
                   <summary>You really really sure?</summary>
                     <details>
-                      <summary>You really really really- yeah sure go ahead ~></summary><br>
+                      <summary>You really really really sure?</summary>
+                        <details>        
+                         <summary>You really really really really sure?</summary>
+                          <details>
+                           <summary>You really really really really really- yeah sure go ahead ~></summary><br>
                             
 ![Recent Scrobbles](https://lastfm-recently-played.vercel.app/api?user=ryukaizen&count=3&width=350&love=true)                  
 </details>
