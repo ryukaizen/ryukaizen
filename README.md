@@ -1,6 +1,6 @@
 ![ryukaizen](https://i.imgur.com/rPudVOL.jpeg)
 
-![Some graph to make my README look more sophisticated](https://github-readme-activity-graph.vercel.app/graph?username=ryukaizen&theme=react-dark)
+![Some graph to make my README look more sophisticated](https://github-readme-activity-graph.vercel.app/graph?username=ryukaizen&custom_title=ryukaizen%27s+Contribution+Graph&title_color=ffffff&bg_color=000000&color=ffffff&line=c90202&point=ffffff&area=true&area_color=ff8086)
 
 <div align="center">
         
