@@ -1,8 +1,10 @@
 ![ryukaizen](https://i.imgur.com/rPudVOL.jpeg)
 
-![Some graph to make my README look more sophisticated](https://github-readme-activity-graph.vercel.app/graph?username=ryukaizen&custom_title=ryukaizen%27s+Contribution+Graph&title_color=ffffff&bg_color=000000&color=ffffff&line=c90202&point=ffffff&area=true&area_color=ff8086)
+![Some graph to make my README look more sophisticated](https://github-readme-activity-graph.vercel.app/graph?username=ryukaizen&custom_title=ryukaizen%27s+Contribution+Graph&title_color=ffffff&bg_color=000000&color=ffffff&line=c90202&point=ffffff&area=true&area_color=ff8086) <!-- Thanks https://github.com/Ashutosh00710/github-readme-activity-graph -->
 
 <div align="center">
+  
+![Profile views counter](https://komarev.com/ghpvc/?username=ryukaizen&color=red&style=for-the-badge&abbreviated=true) <!--Thanks https://github.com/antonkomarev/github-profile-views-counter -->
         
 [![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white)](https://httpd.apache.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
