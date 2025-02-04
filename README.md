@@ -21,7 +21,7 @@
 
 <details>
 <summary>🎶 Want to know what was I listening to?</summary>
-        <img src="https://media1.tenor.com/m/2z7NVAVjM_YAAAAd/guts-berserk.gif" width = "250"/> 
+<!--         <img src="https://media1.tenor.com/m/2z7NVAVjM_YAAAAd/guts-berserk.gif" width = "250"/>  -->
         <details>
           <summary>You sure?</h4></summary>
             <details>
